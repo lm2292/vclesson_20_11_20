@@ -29,3 +29,12 @@ helped to improve the human life
 
 ##Bibliography
 This is the list of books I read for this paper
+
+Hutchinson, T, et al. (2014) Current hybrid-electric powertrain architecture: Applying empirical design data to life cycle assessment and whole-life cost analysis, Applied Energy 119 (2014) 314-329
+
+Shankleman, J. (2017). Bloomberg.com - The Electric Car Revolution is Accelerating. [Online] Available at: https://www.bloomberg.com/news/articles/2017-07-06/the-electric-car-revolution-is-accelerating . [Accessed 13/11/2020]
+
+Boretti, A. and Al-Zubaidy, S., (2016). E-KERS Energy Management Crucial to Improved Fuel Economy.  SAE Technical Paper 2016-01-1947, 2016, doi:10.4271/2016-01-1947.
+
+Horn, M. et al. (2019). Supercapacitors: A new source of power for electric cars. Economic Analysis and Policy Journal, 61 (2019) 93-103. https://doi.org/10.1016/j.eap.2018.08.003  
+
